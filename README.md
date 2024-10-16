@@ -19,7 +19,7 @@ We wanted to answer three main questions with our visualizations:
 
 # Breakdown of our Visualizations
 Emissions Cloropleth Map
-(insert information about how to interact and what you see here)
+(The map showcases c02 emissions from different countries around the world over a 20 year period. The scrollable feature at the bottom lets you change the year. The color changes based on emissions. Light yellow for under 50k kilotons to dark red for over 350k kiltons. The United States has its own scrollable feature to show how much c02 was emitted on any given year. There is also a hover popup feature that lets you scroll over the country to highlight the name and emissions for that year.)
 Sustainable Energy Bar Charts
 (insert information about how to interact and what you see here)
 Annual Surface Temperature Scatter Plots
