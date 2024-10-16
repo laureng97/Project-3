@@ -15,7 +15,7 @@ We wanted to answer three main questions with our visualizations:
 3. How did the temperature averages for each country change over 25 years? [Scatter plot]
 
 # How to Interact with the Project
-  This project contains a main HTML page (link here). You can interact with this page in two different ways: scrolling down the page to view each visualization and interacting with them individually on the main page or clicking the individual hyperlinks on the main HTML page (this will open a separate HTML page for each visualization that can be interacted with).
+  This project contains a main HTML page [(link here)](https://laureng97.github.io/Project-3/). You can interact with this page in two different ways: scrolling down the page to view each visualization and interacting with them individually on the main page or clicking the individual hyperlinks on the main HTML page (this will open a separate HTML page for each visualization that can be interacted with).
 
 # Breakdown of our Visualizations
 Emissions Cloropleth Map
