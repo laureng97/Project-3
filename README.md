@@ -33,9 +33,9 @@ https://ourworldindata.org/sdgs/affordable-clean-energy. It is important to note
 
 # References for the data sources
   The following Kaggle datasets were used as the base of our data exploration for this project.   
-https://www.kaggle.com/datasets/jawadawan/global-warming-trends-1961-2022 
+- https://www.kaggle.com/datasets/jawadawan/global-warming-trends-1961-2022 
 This dataset looks at annual surface temperatures for over 100 countries spanning from 1961-2022. 
-https://www.kaggle.com/datasets/anshtanwar/global-data-on-sustainable-energy
+- https://www.kaggle.com/datasets/anshtanwar/global-data-on-sustainable-energy
 This dataset looks at sustainable energy factors across over 100 countries from 2000 to 2020. 
 
 # References for code sources
