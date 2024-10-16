@@ -8,12 +8,12 @@ div {
 }
 
 .id-container {
-    height: 700px;
+    height: 750px;
 }
 
 h1, h2 {
     text-align: center;
-    color: rgb(95, 95, 95);
+    color: rgb(80, 80, 80);
     font-family: "Proxima Nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
