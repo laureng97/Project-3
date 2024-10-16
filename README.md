@@ -44,7 +44,9 @@ The basis for the Emissions Cloropleth Map code was built using the code found i
 
 We utilized https://seaborn.pydata.org/index.html as a resource to see what different kinds of visualizations could be created with the Seaborn library in Python. Ultimately, Xpert Learning Assistant and ChatGPT were used to fully curate the Seaborn visualization (for error troubleshooting and additional suggestions on cleaning up the visual). 
 
-We also want to note that it was AI that suggested we use the write.HTML function in python to create our base HTML pages for our visualizations. This additional tool was useful in saving time. Although the base HTML pages were created using a python library, Andrew created our main HTML page that integrated the three visual HTML pages. The following resources were used to assist him in that process: https://stackoverflow.com/questions/12032664/load-a-html-page-within-another-html-page (Loading HTML pages within HTML), https://www.w3schools.com/html/html_iframe.asp (iframe tutorial). 
+We also want to note that it was AI that suggested we use the write.HTML function in python to create our base HTML pages for our visualizations. This additional tool was useful in saving time. Although the base HTML pages were created using a python library, Andrew created our main HTML page that integrated the three visual HTML pages. The following resources were used to assist him in that process:
+- https://stackoverflow.com/questions/12032664/load-a-html-page-within-another-html-page (Loading HTML pages within HTML)
+  - https://www.w3schools.com/html/html_iframe.asp (iframe tutorial). 
 
 # Contributors to the Project
 This project would not have been made possible without the following individuals: Andrew Pohle, Lauren Graves, Jessica Maranto, and Caitlin McMahill. A huge thank you to the collaborative efforts of this individuals and to the resources used to provide the foundation for this project.
