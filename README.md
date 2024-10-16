@@ -23,7 +23,7 @@ Emissions Cloropleth Map
 Sustainable Energy Bar Charts
 (insert information about how to interact and what you see here)
 Annual Surface Temperature Scatter Plots
-(insert information about how to interact and what you see here)
+(User can select continent on drop down. This will show each country and the change in surface temp for each year. )
 
 # Ethical Considerations
   Data accuracy and representation are essential when using public datasets and transforming the data within them. We looked at the sources for each of our Kaggle datasets and noted that the global warming trends dataset did not list an exact source, it references reputable climate monitoring agencies and research institutions. We acknowledge that this does not suffice as a sufficient source for the data and can have implications on the accuracy of what is depicted in the project. On the other hand, our second source for global data on sustainable energy contains reference to the data being sources from the World Bank and International Energy Agency. The main source of the data in this kaggle set is from this website
